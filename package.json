@@ -1,0 +1,17 @@
+{
+  "name": "yt-downloader",
+  "version": "1.0.0",
+  "description": "An application for download youtube music",
+  "main": "./bin/index.js",
+  "preferGlobal": true,
+  "bin": "./bin/index.js",
+  "author": "rborgesds",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cli-progress": "^3.8.2",
+    "commander": "^6.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^3.2.0"
+  }
+}
