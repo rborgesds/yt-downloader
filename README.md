@@ -2,6 +2,10 @@
 
 Download Youtube videos and convert to mp3 files
 
+## Requirements
+
+- ffmpeg lib
+
 ### Download
 
 `git clone git@github.com:rborgesds/yt-downloader.git`
