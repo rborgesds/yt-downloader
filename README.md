@@ -20,6 +20,6 @@ Download Youtube videos and convert to mp3 files
 
 ### Running
 
-`yt-downloader https://youtu.be/1hb-DcCCV80`
+`yt-downloader https://youtu.be/RUaYbfKZIiA`
 
-Output 'Evil Morty Theme.mp3'
+Output 'La la la -guy.mp3'
