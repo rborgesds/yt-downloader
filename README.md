@@ -1,6 +1,6 @@
 # yt-downloader
 
-Download Youtube videos and convert to mp3 files
+Download Youtube videos and convert them to mp3 files
 
 ## Requirements
 
